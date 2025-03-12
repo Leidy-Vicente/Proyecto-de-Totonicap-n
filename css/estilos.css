@@ -1,0 +1,38 @@
+h1{
+    color:red;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px #ced4da;
+}
+.fuente georgias{
+    font-family: 'georgias'
+}
+.fuente arial{
+    font-family: 'arial'
+}
+.fuente time{ 
+font-family: 'time'}
+.caja{
+    padding-bottom: 15px 10px 15px 10px;
+    border: 1px solid#467b9d;
+    margin: 30px;
+    background-color: azure;
+    max-width: 300px;
+    box-sizing: border-box;
+}
+body{
+    background-color: azure;
+    color: black;
+    background-image: url(fondo.jpg);
+    background-repeat: no-repeat
+        
+}
+h2{
+text-align:center;
+    color: #081f1f;
+background: #d884d8;
+    text-transform;'mayuscula';
+    text-shadow: 5px 10px 5px #0d0dff;
+    border: 10px #020202;
+    margin: 6px auto;
+}
